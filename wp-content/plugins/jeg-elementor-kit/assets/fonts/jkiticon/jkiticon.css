@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'jkiticon';
-	src: url('/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.eot?bv8d8l');
-	src: url('/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.eot?bv8d8l#iefix') format('embedded-opentype'), url('/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.woff2?bv8d8l') format('woff2'), url('/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.woff?bv8d8l') format('woff'), url('/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.ttf?bv8d8l') format('truetype'), url('/wp-content/plugins/jeg-elementor-kit/assets/fonts/jkiticon/jkiticon.svg?bv8d8l#jkiticon') format('svg');
+	src: url('./jkiticon.eot?bv8d8l');
+	src: url('./jkiticon.eot?bv8d8l#iefix') format('embedded-opentype'), url('./jkiticon.woff2?bv8d8l') format('woff2'), url('./jkiticon.woff?bv8d8l') format('woff'), url('./jkiticon.ttf?bv8d8l') format('truetype'), url('./jkiticon.svg?bv8d8l#jkiticon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 	font-display: block;
